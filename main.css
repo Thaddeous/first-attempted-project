@@ -1,0 +1,29 @@
+body {
+	background-image: url("http://brewpublic.com/wp-content/uploads/2009/10/cascade-brewing-and-road-to-walla-walla-075.jpg");
+	background-position: center;
+	background-attachment: fixed;
+}
+
+img {
+	height: 250px;
+}
+
+.main {
+	width: 600px;
+	margin: 10px auto;
+	padding-bottom: 3px; 
+	background: #ffffff;
+	text-align: center;
+	border: 2px solid gray;
+	border-bottom: 5px;
+}
+
+.main1 {
+	width: 600px;
+	margin: 10px auto;
+	padding-bottom: 3px; 
+	background: #ffffff;
+	text-align: center;
+	border: 2px solid gray;
+	border-bottom: 5px;
+}
